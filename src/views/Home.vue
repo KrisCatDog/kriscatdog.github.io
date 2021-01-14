@@ -6,13 +6,13 @@
       >
         Hi, <br />
         I'm Krishna, <br />
-        junior web developer.
+        junior web & mobile developer.
       </h1>
 
       <h3
         class="text-sm lg:text-base xxl:text-xl text-white tracking-widest mt-2 animate__animated animate__delay-1s animate__bounceInDown"
       >
-        Front End Developer | Back End Developer | Web Designer
+        Fullstack Web Developer | Web Designer | Mobile Developer
       </h3>
 
       <div
